@@ -212,7 +212,7 @@ main img {
 
 @media (min-width: 900px) {
   :root {
-    --heading-font-size-xxl: 38x;
+    --heading-font-size-xxl: 38px;
     --heading-font-size-xl: 32px;
     --heading-font-size-l: 28px;
     --heading-font-size-m: 22px;
