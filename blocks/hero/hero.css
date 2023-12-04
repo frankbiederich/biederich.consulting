@@ -18,6 +18,7 @@ main .hero {
 	main .hero {
 	  min-height: 250px;
 	}
+}
 
 main .hero h1 {
   max-width: 1200px;
