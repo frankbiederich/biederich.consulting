@@ -1,7 +1,6 @@
 /* header and nav layout */
 header .nav-wrapper {
   background-color: transparent;
-  transition: background-color 0.3s;
   width: 100%;
   z-index: 2;
   position: fixed;
@@ -9,6 +8,7 @@ header .nav-wrapper {
 
 header.scrolled .nav-wrapper {
   background-color: var(--background-color);
+  transition: background-color 0.3s;
 }
 
 header nav {
