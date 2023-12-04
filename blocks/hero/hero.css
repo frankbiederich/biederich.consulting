@@ -16,7 +16,7 @@ main .hero {
 
 @media (min-width: 900px) {
 	main .hero {
-	  min-height: 250px;
+	  min-height: 200px;
 	}
 }
 
