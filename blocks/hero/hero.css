@@ -11,8 +11,13 @@ main .hero-container {
 main .hero {
   position: relative;
   padding: 32px;
-  min-height: 250px;
+  min-height: 50px;
 }
+
+@media (min-width: 900px) {
+	main .hero {
+	  min-height: 250px;
+	}
 
 main .hero h1 {
   max-width: 1200px;
