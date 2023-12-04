@@ -6,6 +6,9 @@ main .hero-container > div {
   
 main .hero-container {
   padding: 0;
+  display: flex;
+  align-items: center; /* Vertical alignment */
+  justify-content: center; /* Horizontal alignment */
 }
   
 main .hero {
