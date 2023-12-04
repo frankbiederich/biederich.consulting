@@ -193,6 +193,7 @@ header nav .nav-sections ul > li > ul > li {
     visibility: visible;
     white-space: nowrap;
   }
+}
 
   header nav[aria-expanded="true"] .nav-sections {
     align-self: unset;
